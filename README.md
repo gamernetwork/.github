@@ -1,1 +1,1 @@
-# .github
+This repository provides default configurations for other repositories in this organization.
