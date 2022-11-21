@@ -1,4 +1,4 @@
-**Pre-review checklist**
+## Pre-review checklist
 - [ ] Have you updated the README to include new information about the setup or maintenance of this project?
 - [ ] Have you documented any new build or deploy steps (migrations, config changes, etc)?
 - [ ] Have you added automated tests to cover this work?
@@ -20,7 +20,7 @@ Go in to more detail if need be. I.e. why you've made these changes, or your thi
 **Your test plan**
 Provide a bulleted test plan that a reviewer can use to verify these changes work as expected.
 
-Note for reviewers: if a test plan isn't provided, please return the PR to the author and ask them for a test plan.
+> Note for reviewers: if a test plan isn't provided, please return the PR to the author and ask them for a test plan.
 
 **What Github Issues or Freshservice tickets does this address?**
 List any issue numbers or links to Freshservice tickets here.
