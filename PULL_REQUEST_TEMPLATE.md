@@ -9,7 +9,7 @@
 - [ ] Have you captured any new technical debt and/or unfinished parts in issues?
 - [ ] Have you got relevant project stakeholders to sign off this work?
 
-### Required items
+## Required items
 
 **What does this pull request do?**
 Please explain what your change accomplishes.
@@ -28,7 +28,7 @@ List any issue numbers or links to Freshservice tickets here.
 **Lighthouse audit**
 For markup and script changes, provide before and after Lighthouse audit logs to show that your changes do not lower our Lighthouse scores.
 
-### Optional items
+## Optional items
 
 **Are there migrations?**
 Explain what implications the migrations might have. How long do they take? Do we need to schedule downtime to run them?
