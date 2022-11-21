@@ -26,7 +26,7 @@ Provide a bulleted test plan that a reviewer can use to verify these changes wor
 List any issue numbers or links to Freshservice tickets here.
 
 **Lighthouse audit**
-For markup and script changes, provide before and after Lighthouse audit logs to show that your changes do not lower our Lighthouse scores.
+If you have made markup, style, or script changes please provide before and after Lighthouse results to show that your changes do not lower our Lighthouse scores.
 
 ## Optional items
 
